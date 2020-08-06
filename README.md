@@ -8,8 +8,20 @@
 
 <img src="https://komarev.com/ghpvc/?username=SummerFalls" alt="SummerFalls" />
 
-</tr>
 </td>
+</tr>
+<tr>
+<td>
+
+[![LINNY's github stats](https://github-readme-stats.vercel.app/api?username=SummerFalls&count_private=true&show_icons=true)](http://apex.linn.top/)
+
+</td>
+<td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SummerFalls&layout=compact)](http://apex.linn.top/)
+
+</td>
+</tr>
 <tr>
 <td>
 
@@ -83,18 +95,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ![Pic_1][Pic_1]
-
-</td>
-</tr>
-<tr>
-<td>
-
-[![LINNY's github stats](https://github-readme-stats.vercel.app/api?username=SummerFalls&count_private=true&show_icons=true)](http://apex.linn.top/)
-
-</td>
-<td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SummerFalls&layout=compact)](http://apex.linn.top/)
 
 </td>
 </tr>
