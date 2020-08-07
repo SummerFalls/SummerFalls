@@ -2,7 +2,7 @@
 <tr>
 <td colspan="2">
 
-# Hi there :wave:, I'm LINNY. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48">
+# Hi there :wave:, I'm TOMMY. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48">
 
 **A Embedded Software Engineer at [DosonTek](http://dosontek.com/). Aim to become a Software and Hardware Full Stack Engineer.**
 
@@ -13,7 +13,7 @@
 <tr>
 <td>
 
-[![LINNY's github stats](https://github-readme-stats.vercel.app/api?username=SummerFalls&count_private=true&show_icons=true)](http://apex.linn.top/)
+[![TOMMY's github stats](https://github-readme-stats.vercel.app/api?username=SummerFalls&count_private=true&show_icons=true)](http://apex.linn.top/)
 
 </td>
 <td>
