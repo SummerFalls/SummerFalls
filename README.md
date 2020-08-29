@@ -100,6 +100,4 @@
 </tr>
 </table>
 
-⭐️ From [@SummerFalls](https://github.com/SummerFalls)
-
 [Pic_1]: https://raw.githubusercontent.com/SummerFalls/SummerFalls/master/Pic.jpg
