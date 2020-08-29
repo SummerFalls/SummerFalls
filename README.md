@@ -34,7 +34,7 @@
 - `J1939`
 - `UDS (ISO14229, Unified Diagnostic Services)`
 
-## :speech_balloon: Development Experience
+## :speech_balloon: Development Experience:
 
 - MCU/DSP/SoC
   - `STMicroelectronics` STM32F0/F1/F3/F4/F7/G0/G4
