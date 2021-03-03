@@ -96,6 +96,9 @@
 ![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/-Riot%20Games-444444?style=flat-square&logo=Riot-Games&logoColor=D32936)
 
+</td>
+<td>
+
 ## :seedling: Learning:
 
 - `Altium Designer 21`
@@ -105,9 +108,6 @@
 - `SAE J1939`
 - `UDS (ISO14229, Unified Diagnostic Services)`
 - `Simulink Model-Based Design`
-
-</td>
-<td>
 
 ## :speech_balloon: Development Experience
 
