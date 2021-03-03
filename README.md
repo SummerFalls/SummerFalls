@@ -27,12 +27,13 @@
 
 ## :seedling: Learning:
 
-- `Altium Designer 20`
-- `Fusion 360`
+- `Altium Designer 21`
+- `Autodesk Fusion 360`
 - `Adobe XD`
 - `TouchGFX`
 - `SAE J1939`
 - `UDS (ISO14229, Unified Diagnostic Services)`
+- `Simulink Model-Based Design`
 
 ## :speech_balloon: Development Experience
 
@@ -104,4 +105,4 @@
 
 ⭐️ From [@SummerFalls](https://github.com/SummerFalls)
 
-[Pic_1]: https://raw.githubusercontent.com/SummerFalls/SummerFalls/master/Pic.jpg
+[Pic_1]: https://raw.githubusercontent.com/SummerFalls/PCB_BusinessCard/master/2.Pics/PCB_BusinessCard.22.png
