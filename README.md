@@ -29,32 +29,48 @@
 
 :pineapple: are in my head now, :drooling_face:.
 
-![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B)
+![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=C%2B%2B)
+![Qt](https://img.shields.io/badge/-Qt-000000?style=flat-square&logo=Qt)
+![C Sharp](https://img.shields.io/badge/-C%20Sharp-000000?style=flat-square&logo=C-Sharp)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white)
-![NGINX](https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
-<!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
-<!-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter) -->
-![Adobe Photoshop](https://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF0089?style=flat-square&logo=Adobe-XD&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
-![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-444444?style=flat-square&logo=Visual-Studio-Code&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git)
+![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat-square&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github)
+![Envato](https://img.shields.io/badge/-Envato-000000?style=flat-square&logo=Envato)
+![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-000000?style=flat-square&logo=stack-overflow)
+![NGINX](https://img.shields.io/badge/-NGINX-000000?style=flat-square&logo=nginx)
+<!-- ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker) -->
+<!-- ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat-square&logo=flutter) -->
+![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-000000?style=flat-square&logo=Altium-Designer)
+![Adobe Acrobat Reader](https://img.shields.io/badge/-Adobe%20Acrobat%20Reader-000000?style=flat-square&logo=Adobe-Acrobat-Reader)
+![Adobe Photoshop](https://img.shields.io/badge/-Abode%20Photoshop-000000?style=flat-square&logo=Adobe-Photoshop)
+![Adobe Illustrator](https://img.shields.io/badge/-Abode%20Illustrator-000000?style=flat-square&logo=Adobe-Illustrator)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-000000?style=flat-square&logo=Adobe-XD)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat-square&logo=android-studio)
+![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-000000?style=flat-square&logo=Microsoft-Edge)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000000?style=flat-square&logo=Visual-Studio-Code)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat-square&logo=Jupyter)
+![diagrams.net](https://img.shields.io/badge/-diagrams.net-000000?style=flat-square&logo=diagrams.net)
 
 ## :kiwi_fruit: Platforms:
 
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat-square&logo=linux&logoColor=FCC624)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![Android](https://img.shields.io/badge/-Android-000000?style=flat-square&logo=android)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat-square&logo=Ubuntu)
+![Debian](https://img.shields.io/badge/-Debian-000000?style=flat-square&logo=debian)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat-square&logo=windows)
+![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-000000?style=flat-square&logo=Alibaba-Cloud)
+![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat-square&logo=Arduino)
+![micro:bit](https://img.shields.io/badge/-micro:bit-000000?style=flat-square&logo=micro:bit)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000000?style=flat-square&logo=Raspberry-Pi)
+![Xilinx](https://img.shields.io/badge/-Xilinx-000000?style=flat-square&logo=Xilinx&logoColor=E01F27)
+
+![Nintendo Switch](https://img.shields.io/badge/-Nintendo%20Switch-000000?style=flat-square&logo=Nintendo-Switch&logoColor=E60012)
+![Nintendo 3DS](https://img.shields.io/badge/-Nintendo%203DS-000000?style=flat-square&logo=Nintendo-3DS&logoColor=D12228)
+![Riot Games](https://img.shields.io/badge/-Riot%20Games-000000?style=flat-square&logo=Riot-Games&logoColor=D32936)
 
 ## :seedling: Learning:
 
