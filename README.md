@@ -42,6 +42,7 @@
 <!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 <!-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter) -->
 ![Adobe Photoshop](https://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF0089?style=flat-square&logo=Adobe-XD&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-444444?style=flat-square&logo=Visual-Studio-Code&logoColor=007ACC)
