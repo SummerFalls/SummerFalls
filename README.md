@@ -73,6 +73,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-444444?style=flat-square&logo=windows&logoColor=0078D6)
 ![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-444444?style=flat-square&logo=Alibaba-Cloud)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-444444?style=flat-square&logo=DigitalOcean&logoColor=0080FF)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
 ![Vultr](https://img.shields.io/badge/Vultr-444444?style=flat-square&logo=Vultr&logoColor=007BFC)
 ![Arduino](https://img.shields.io/badge/-Arduino-444444?style=flat-square&logo=Arduino)
 ![micro:bit](https://img.shields.io/badge/-micro:bit-444444?style=flat-square&logo=micro:bit)
@@ -80,6 +81,7 @@
 ![Xilinx](https://img.shields.io/badge/-Xilinx-444444?style=flat-square&logo=Xilinx&logoColor=E01F27)
 ![STMicroelectronics](https://img.shields.io/badge/-STMicroelectronics-444444?style=flat-square&logo=STMicroelectronics&logoColor=03234B)
 
+![Discogs](https://img.shields.io/badge/-Discogs-333333?style=flat-square&logo=Discogs&logoColor=white)
 ![PlayStation](https://img.shields.io/badge/-PlayStation-003791?style=flat-square&logo=PlayStation&logoColor=white)
 ![PlayStation 3](https://img.shields.io/badge/-PlayStation%203-003791?style=flat-square&logo=PlayStation-3&logoColor=white)
 ![PlayStation 4](https://img.shields.io/badge/-PlayStation%204-003791?style=flat-square&logo=PlayStation-4&logoColor=white)
