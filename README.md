@@ -2,11 +2,9 @@
 <tr>
 <td colspan="2">
 
-# Hi there :wave:, I'm TOMMY. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48">
+# Hi there :wave:, I'm TOMMY. <img src="https://komarev.com/ghpvc/?username=SummerFalls" alt="SummerFalls" />
 
-**A Embedded Software Engineer at [DosonTek](http://dosontek.com/). Aim to become a Software and Hardware Full Stack Engineer.**
-
-<img src="https://komarev.com/ghpvc/?username=SummerFalls" alt="SummerFalls" />
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **A Embedded Software Engineer at [DosonTek](http://dosontek.com/). Aim to become a Software and Hardware Full Stack Engineer.**
 
 </td>
 </tr>
@@ -25,47 +23,7 @@
 <tr>
 <td>
 
-## :seedling: Learning:
-
-- `Altium Designer 21`
-- `Autodesk Fusion 360`
-- `Adobe XD`
-- `TouchGFX`
-- `SAE J1939`
-- `UDS (ISO14229, Unified Diagnostic Services)`
-- `Simulink Model-Based Design`
-
-## :speech_balloon: Development Experience
-
-- MCU/DSP/SoC
-  - `STMicroelectronics` STM32F0/F1/F3/F4/F7/G0/G4
-  - `Xilinx` Zynq SoC 7020/7035
-  - `Texas Instruments` C2000 DSP TMS320F28027/F28035/F280025C
-  - `Infineon Technologies` XMC1100/XMC1300
-  - `NXP` S32K116/S32K142/S32K144/i.MX RT1050
-  - `MindMotion Microelectronics` MM32F0
-  - `AutoChips` AC7801x
-- IDE
-  - `VS Code`, `VS 2019`, `Keil MDK`, `TrueStudio`, `STM32CubeIDE`, `S32 Design Studio`, MCUXpresso IDE, CodeWarrior, DAVE 4, `Code Composer Studio`, Vivado Design Suite HLx
-- EDA
-  - `Altium Designer`
-  - `EasyEDA`
-- RTOS
-  - FreeRTOS
-  - uC/OS-II
-  - Azure RTOS ThreadX
-- Graphic Software Framework
-  - `Segger emWin`
-  - `TouchGFX`
-  - Azure RTOS GUIX
-  - LVGL
-  - u8g2
-- Low Layer Communication Protocol
-  - `CAN` (EzCAN, SAE J1939, UDS), LIN, RS485, `I2C`, `SPI`, QSPI, `UART`, `USB`, SWI
-
-</td>
-
-<td>
+[![Pic_1][Pic_1]](https://github.com/SummerFalls/PCB_BusinessCard)
 
 ## :hammer_and_wrench: Languages and Tools:
 
@@ -97,7 +55,46 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-[![Pic_1][Pic_1]](https://github.com/SummerFalls/PCB_BusinessCard)
+## :seedling: Learning:
+
+- `Altium Designer 21`
+- `Autodesk Fusion 360`
+- `Adobe XD`
+- `TouchGFX`
+- `SAE J1939`
+- `UDS (ISO14229, Unified Diagnostic Services)`
+- `Simulink Model-Based Design`
+
+</td>
+<td>
+
+## :speech_balloon: Development Experience
+
+- MCU/DSP/SoC
+  - `STMicroelectronics` STM32F0/F1/F3/F4/F7/G0/G4
+  - `Xilinx` Zynq SoC 7020/7035
+  - `Texas Instruments` C2000 DSP TMS320F28027/F28035/F280025C
+  - `Infineon Technologies` XMC1100/XMC1300
+  - `NXP` S32K116/S32K142/S32K144/i.MX RT1050
+  - `MindMotion Microelectronics` MM32F0
+  - `AutoChips` AC7801x
+- IDE
+  - `VS Code`, `VS 2019`, `Keil MDK`, `TrueStudio`, `STM32CubeIDE`, `S32 Design Studio`, MCUXpresso IDE, CodeWarrior, DAVE 4, `Code Composer Studio`, Vivado Design Suite HLx
+- EDA
+  - `Altium Designer`
+  - `EasyEDA`
+- RTOS
+  - FreeRTOS
+  - uC/OS-II
+  - Azure RTOS ThreadX
+- Graphic Software Framework
+  - `Segger emWin`
+  - `TouchGFX`
+  - Azure RTOS GUIX
+  - LVGL
+  - u8g2
+- Low Layer Communication Protocol
+  - `CAN` (EzCAN, SAE J1939, UDS), LIN, RS485, `I2C`, `SPI`, QSPI, `UART`, `USB`, SWI
 
 </td>
 </tr>
