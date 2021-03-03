@@ -34,14 +34,17 @@
 ![Qt](https://img.shields.io/badge/-Qt-444444?style=flat-square&logo=Qt)
 ![C Sharp](https://img.shields.io/badge/-C%20Sharp-444444?style=flat-square&logo=C-Sharp&logoColor=239120)
 ![Python](https://img.shields.io/badge/-Python-444444?style=flat-square&logo=Python&logoColor=3776AB)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=JSON&logoColor=white)
 ![XAML](https://img.shields.io/badge/-XAML-444444?style=flat-square&logo=XAML&logoColor=0C54C2)
 ![HTML5](https://img.shields.io/badge/-HTML5-444444?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-444444?style=flat-square&logo=css3&logoColor=1572B6)
 
 ![Git](https://img.shields.io/badge/Git-444444?style=flat-square&logo=Git)
-![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat-square&logo=Gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Envato](https://img.shields.io/badge/-Envato-444444?style=flat-square&logo=Envato)
+![Hackaday](https://img.shields.io/badge/-Hackaday-1A1A1A?style=flat-square&logo=Hackaday&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-444444?style=flat-square&logo=stack-overflow)
 ![NGINX](https://img.shields.io/badge/-NGINX-444444?style=flat-square&logo=nginx)
 <!-- ![Docker](https://img.shields.io/badge/-Docker-444444?style=flat-square&logo=docker) -->
@@ -51,6 +54,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Abode%20Photoshop-444444?style=flat-square&logo=Adobe-Photoshop)
 ![Adobe Illustrator](https://img.shields.io/badge/-Abode%20Illustrator-444444?style=flat-square&logo=Adobe-Illustrator)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-444444?style=flat-square&logo=Adobe-XD)
+![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=flat-square&logo=Inkscape&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-444444?style=flat-square&logo=android-studio)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-444444?style=flat-square&logo=Microsoft-Edge&logoColor=0078D7)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-444444?style=flat-square&logo=Visual-Studio-Code&logoColor=007ACC)
@@ -89,6 +93,7 @@
 ![PlayStation Vita](https://img.shields.io/badge/-PlayStation%20Vita-003791?style=flat-square&logo=PlayStation-Vita&logoColor=white)
 ![Nintendo Switch](https://img.shields.io/badge/-Nintendo%20Switch-444444?style=flat-square&logo=Nintendo-Switch&logoColor=E60012)
 ![Nintendo 3DS](https://img.shields.io/badge/-Nintendo%203DS-444444?style=flat-square&logo=Nintendo-3DS&logoColor=D12228)
+![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/-Riot%20Games-444444?style=flat-square&logo=Riot-Games&logoColor=D32936)
 
 ## :seedling: Learning:
