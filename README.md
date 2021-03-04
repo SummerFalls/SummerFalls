@@ -27,8 +27,6 @@
 
 ## :hammer_and_wrench: Languages and Tools:
 
-:pineapple: are in my head now, :drooling_face:.
-
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=white)
