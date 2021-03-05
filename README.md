@@ -4,19 +4,19 @@
 
 <table>
 <tr>
-<td>
+<td style = "width: 50%;">
 
 [![TOMMY's github stats](https://github-readme-stats.vercel.app/api?username=SummerFalls&count_private=true&show_icons=true)](http://apex.linn.top/)
 
 </td>
-<td>
+<td style = "width: 50%;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SummerFalls&layout=compact)](http://apex.linn.top/)
 
 </td>
 </tr>
 <tr>
-<td>
+<td style = "width: 50%;">
 
 [![Pic_1][Pic_1]](https://github.com/SummerFalls/PCB_BusinessCard)
 
@@ -95,7 +95,7 @@
 ![Discogs](https://img.shields.io/badge/-Discogs-333333?style=flat-square&logo=Discogs&logoColor=white)
 
 </td>
-<td>
+<td style = "width: 50%;">
 
 ## :seedling: Learning:
 
