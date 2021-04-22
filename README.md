@@ -1,6 +1,6 @@
 # Hi there :wave:, I'm TOMMY. <img src="https://komarev.com/ghpvc/?username=SummerFalls" alt="SummerFalls" />
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **A Embedded Software Engineer. Aim to become a Software and Hardware Full Stack Engineer.**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **An Embedded Software Engineer. Aim to become a Software and Hardware Full Stack Engineer.**
 
 <table>
 <tr>
