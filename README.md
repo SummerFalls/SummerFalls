@@ -1,15 +1,10 @@
-# Hi there :wave:, I'm TOMMY. <img src="https://komarev.com/ghpvc/?username=SummerFalls" alt="SummerFalls" />
+# :wave: Hi there ~ <img src="https://komarev.com/ghpvc/?username=SummerFalls" alt="SummerFalls" />
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **An Embedded Software Engineer. Aim to become a Software and Hardware Full Stack Engineer.**
 
-<table>
-<tr>
-<td style = "width: 100%;" colspan="2">
-
 ![Metrics](https://metrics.lecoq.io/SummerFalls?template=classic&isocalendar=1&languages=1&stars=1&followup=1&introduction=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=2&followup.sections=repositories&followup.indepth=false&introduction.title=true&config.timezone=Asia%2FShanghai&config.display=large)
 
-</td>
-</tr>
+<table>
 <tr>
 <td style = "width: 50%;">
 
