@@ -89,7 +89,8 @@
 
 ## :seedling: Learning:
 
-- `Altium Designer 21`
+- `Qt for Windows`
+- `PS4 Homebrew Development`
 - `Autodesk Fusion 360`
 - `Adobe XD`
 - `TouchGFX`
@@ -110,7 +111,7 @@
 - IDE
   - `VS Code`, `VS 2019`, `Keil μVision5`, `TrueStudio`, `STM32CubeIDE`, `S32 Design Studio`, MCUXpresso IDE, CodeWarrior, DAVE 4, `Code Composer Studio`, Vivado Design Suite HLx
 - EDA
-  - `Altium Designer`
+  - `Altium Designer 22`
   - `EasyEDA`
 - RTOS
   - FreeRTOS
