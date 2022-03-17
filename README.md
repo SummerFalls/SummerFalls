@@ -2,9 +2,19 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **An Embedded Software Engineer. Aim to become a Software and Hardware Full Stack Engineer.**
 
-![Metrics](https://metrics.lecoq.io/SummerFalls?template=classic&isocalendar=1&languages=1&stars=1&followup=1&introduction=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=2&followup.sections=repositories&followup.indepth=false&introduction.title=true&config.timezone=Asia%2FShanghai&config.display=large)
-
 <table>
+<tr>
+<td style = "width: 50%;">
+
+[![TOMMY's github stats](https://github-readme-stats.vercel.app/api?username=SummerFalls&count_private=true&include_all_commits=true&hide_border=true&show_icons=true)](http://apex.linn.top/)
+
+</td>
+<td style = "width: 50%;">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SummerFalls&count_private=true&include_all_commits=true&hide_border=true&layout=compact)](http://apex.linn.top/)
+
+</td>
+</tr>
 <tr>
 <td style = "width: 50%;">
 
@@ -89,7 +99,7 @@
 
 ## :seedling: Learning:
 
-- `Qt for Windows`
+- `Qt5`
 - `PS4 Homebrew Development`
 - `Autodesk Fusion 360`
 - `Adobe XD`
