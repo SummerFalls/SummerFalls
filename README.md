@@ -3,7 +3,9 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **An Embedded Software Engineer. Aim to become a Software and Hardware Full Stack Engineer.**
 
 业余黑胶挖掘机，业余摄影爱好，业余 Vinyl Jockey 搓搓蝶
+
 :1st_place_medal: ![Discogs](https://img.shields.io/badge/-Discogs-333333?style=flat-square&logo=Discogs&logoColor=white) Vinyl Digger: CityPop, AOR, Funk, Soul, Smooth-Jazz and Acid-Jazz Lovers...
+
 :2nd_place_medal: ![500px](https://img.shields.io/badge/-500px-0099E5?style=flat-square&logo=500px&logoColor=white) Camera: Nikon F2 & Fujifilm XT4
 
 <table>
