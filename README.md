@@ -1,20 +1,12 @@
-# :wave: Hi there ~ <img src="https://komarev.com/ghpvc/?username=SummerFalls" alt="SummerFalls" />
+# :wave: Hi there ~ 不会打碟的摄影师不是好的嵌入式软件工程师 <img src="https://komarev.com/ghpvc/?username=SummerFalls" alt="SummerFalls" />
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **An Embedded Software Engineer. Aim to become a Software and Hardware Full Stack Engineer.**
 
+业余黑胶挖掘机，业余摄影爱好，业余 Vinyl Jockey 搓搓蝶
+:1st_place_medal: ![Discogs](https://img.shields.io/badge/-Discogs-333333?style=flat-square&logo=Discogs&logoColor=white) Vinyl Digger: CityPop, AOR, Funk, Soul, Smooth-Jazz and Acid-Jazz Lovers...
+:2nd_place_medal: ![500px](https://img.shields.io/badge/-500px-0099E5?style=flat-square&logo=500px&logoColor=white) Camera: Nikon F2 & Fujifilm XT4
+
 <table>
-<tr>
-<td style = "width: 50%;">
-
-[![TOMMY's github stats](https://github-readme-stats.vercel.app/api?username=SummerFalls&count_private=true&include_all_commits=true&hide_border=true&show_icons=true)](http://apex.linn.top/)
-
-</td>
-<td style = "width: 50%;">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SummerFalls&count_private=true&include_all_commits=true&hide_border=true&layout=compact)](http://apex.linn.top/)
-
-</td>
-</tr>
 <tr>
 <td style = "width: 50%;">
 
@@ -25,9 +17,7 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=white)
-![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=C-Sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=JSON&logoColor=white)
 ![XAML](https://img.shields.io/badge/-XAML-0C54C2?style=flat-square&logo=XAML&logoColor=white)
@@ -92,7 +82,6 @@
 ![Nintendo 3DS](https://img.shields.io/badge/-Nintendo%203DS-D12228?style=flat-square&logo=Nintendo-3DS&logoColor=white)
 ![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/-Riot%20Games-444444?style=flat-square&logo=Riot-Games&logoColor=D32936)
-![Discogs](https://img.shields.io/badge/-Discogs-333333?style=flat-square&logo=Discogs&logoColor=white)
 
 </td>
 <td style = "width: 50%;">
@@ -136,6 +125,8 @@
 - Low Layer Communication Protocol
   - `CAN` (EzCAN, SAE J1939, UDS), LIN, RS485, `I2C`, `SPI`, QSPI, `UART`, `USB`, SWI
 
+![Pic_2][Pic_2]
+
 </td>
 </tr>
 </table>
@@ -143,3 +134,4 @@
 ⭐️ From [@SummerFalls](https://github.com/SummerFalls)
 
 [Pic_1]: https://raw.githubusercontent.com/SummerFalls/PCB_BusinessCard/master/2.Pics/PCB_BusinessCard.22.png
+[Pic_2]: ./FujiXT4.jpg
