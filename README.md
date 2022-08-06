@@ -14,8 +14,6 @@
 <tr>
 <td style = "width: 50%;">
 
-[![Pic_1][Pic_1]](https://github.com/SummerFalls/PCB_BusinessCard)
-
 ## :hammer_and_wrench: Languages and Tools:
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
@@ -87,8 +85,12 @@
 ![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/-Riot%20Games-444444?style=flat-square&logo=Riot-Games&logoColor=D32936)
 
+[![Pic_1][Pic_1]](https://github.com/SummerFalls/PCB_BusinessCard)
+
 </td>
 <td style = "width: 50%;">
+
+![Pic_2][Pic_2]
 
 ## :seedling: Learning:
 
@@ -128,8 +130,6 @@
   - u8g2
 - Low Layer Communication Protocol
   - `CAN` (EzCAN, SAE J1939, UDS), LIN, RS485, `I2C`, `SPI`, QSPI, `UART`, `USB`, SWI
-
-![Pic_2][Pic_2]
 
 </td>
 </tr>
