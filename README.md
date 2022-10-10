@@ -6,7 +6,7 @@
 
 :1st_place_medal: [![Discogs](https://img.shields.io/badge/-Discogs-333333?style=flat-square&logo=Discogs&logoColor=white) Vinyl Digger](https://www.discogs.com/user/California_37): CityPop, AOR, Funk, Soul, Smooth-Jazz and Acid-Jazz Lovers...
 
-:2nd_place_medal: [![500px](https://img.shields.io/badge/-500px-0099E5?style=flat-square&logo=500px&logoColor=white) Camera](https://500px.com.cn/SummerFalls): Rollei 35 & Nikon F2 & Fujifilm XT4
+:2nd_place_medal: [![500px](https://img.shields.io/badge/-500px-0099E5?style=flat-square&logo=500px&logoColor=white) Camera](https://500px.com.cn/SummerFalls): Rollei 35 & Mamiya Universal Press & Nikon F2 & Fujifilm XT4
 
 :3rd_place_medal: [![bilibili](https://img.shields.io/badge/-bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white) 哔哩哔哩: 瀚声_KosmicRecords](https://space.bilibili.com/1557561)
 
