@@ -47,12 +47,7 @@
 
 ![Adobe Acrobat Reader](https://img.shields.io/badge/-Adobe%20Acrobat%20Reader-EC1C24?style=flat-square&logo=Adobe-Acrobat-Reader&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Abode%20Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Abode%20Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=Adobe-XD&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=flat-square&logo=Inkscape&logoColor=white)
-![Font Awesome](https://img.shields.io/badge/Font%20Awesome-444444?style=flat-square&logo=Font-Awesome&logoColor=339AF0)
-![Material Design Icons](https://img.shields.io/badge/Material%20Design%20Icons-444444?style=flat-square&logo=Material-Design-Icons&logoColor=2196F3)
-![Material UI](https://img.shields.io/badge/Material%20UI-444444?style=flat-square&logo=Material-UI&logoColor=0081CB)
 
 ## :kiwi_fruit: Platforms:
 
@@ -85,57 +80,13 @@
 ![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/-Riot%20Games-444444?style=flat-square&logo=Riot-Games&logoColor=D32936)
 
-[![Pic_1][Pic_1]](https://github.com/SummerFalls/PCB_BusinessCard)
-
 </td>
 <td style = "width: 50%;">
 
 ![Pic_2][Pic_2]
 
-## :seedling: Learning:
-
-- `Qt5`
-- `PS4 Homebrew Development`
-- `Autodesk Fusion 360`
-- `Adobe XD`
-- `TouchGFX`
-- `SAE J1939`
-- `UDS (ISO14229, Unified Diagnostic Services)`
-- `Simulink Model-Based Design`
-
-## :speech_balloon: Development Experience
-
-- MCU/DSP/SoC
-  - `STMicroelectronics` STM32F0/F1/F3/F4/F7/G0/G4
-  - `Xilinx` Zynq SoC 7020/7035
-  - `Texas Instruments` C2000 DSP TMS320F28027/F28035/F280025C
-  - `Infineon Technologies` XMC1100/XMC1300
-  - `NXP` S32K116/S32K142/S32K144/i.MX RT1050
-  - `MindMotion Microelectronics` MM32F0
-  - `AutoChips` AC7801x
-- IDE
-  - `VS Code`, `VS 2019`, `Keil μVision5`, `TrueStudio`, `STM32CubeIDE`, `S32 Design Studio`, MCUXpresso IDE, CodeWarrior, DAVE 4, `Code Composer Studio`, Vivado Design Suite HLx
-- EDA
-  - `Altium Designer 22`
-  - `EasyEDA`
-- RTOS
-  - FreeRTOS
-  - uC/OS-II
-  - Azure RTOS ThreadX
-- Graphic Software Framework
-  - `Segger emWin`
-  - `TouchGFX`
-  - Azure RTOS GUIX
-  - LVGL
-  - u8g2
-- Low Layer Communication Protocol
-  - `CAN` (EzCAN, SAE J1939, UDS), LIN, RS485, `I2C`, `SPI`, QSPI, `UART`, `USB`, SWI
-
 </td>
 </tr>
 </table>
 
-⭐️ From [@SummerFalls](https://github.com/SummerFalls)
-
-[Pic_1]: https://raw.githubusercontent.com/SummerFalls/PCB_BusinessCard/master/2.Pics/PCB_BusinessCard.22.png
 [Pic_2]: ./FujiXT4.jpg
