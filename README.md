@@ -6,7 +6,7 @@
 
 🎵 [![bandcamp](https://img.shields.io/badge/-bandcamp-333333?style=flat-square&logo=bandcamp&logoColor=00A1D6) bandcamp](https://bandcamp.com/california_37)
 
-💿 [![Discogs](https://img.shields.io/badge/-Discogs-333333?style=flat-square&logo=Discogs&logoColor=white) Vinyl Digger](https://www.discogs.com/user/California_37): CityPop, AOR, Funk, Soul, Smooth-Jazz and Acid-Jazz Lovers...
+💿 [![Discogs](https://img.shields.io/badge/-Discogs-333333?style=flat-square&logo=Discogs&logoColor=white) Vinyl Digger](https://www.discogs.com/user/California_37): CityPop, AOR, Funk, Soul, Boogie, Jazz-Fusion, Smooth-Jazz and Acid-Jazz Lovers...
 
 📸 [![500px](https://img.shields.io/badge/-500px-0099E5?style=flat-square&logo=500px&logoColor=white) Camera](https://500px.com.cn/SummerFalls): Rollei 35 & Mamiya Universal Press & Nikon F2 & Fujifilm XT4
 
