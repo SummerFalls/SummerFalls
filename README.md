@@ -4,11 +4,13 @@
 
 业余黑胶挖掘机，业余摄影爱好，业余 Vinyl Jockey 搓搓碟
 
-:1st_place_medal: [![Discogs](https://img.shields.io/badge/-Discogs-333333?style=flat-square&logo=Discogs&logoColor=white) Vinyl Digger](https://www.discogs.com/user/California_37): CityPop, AOR, Funk, Soul, Smooth-Jazz and Acid-Jazz Lovers...
+🎵 [![bandcamp](https://img.shields.io/badge/-bandcamp-333333?style=flat-square&logo=bandcamp&logoColor=00A1D6) bandcamp](https://bandcamp.com/california_37)
 
-:2nd_place_medal: [![500px](https://img.shields.io/badge/-500px-0099E5?style=flat-square&logo=500px&logoColor=white) Camera](https://500px.com.cn/SummerFalls): Rollei 35 & Mamiya Universal Press & Nikon F2 & Fujifilm XT4
+💿 [![Discogs](https://img.shields.io/badge/-Discogs-333333?style=flat-square&logo=Discogs&logoColor=white) Vinyl Digger](https://www.discogs.com/user/California_37): CityPop, AOR, Funk, Soul, Smooth-Jazz and Acid-Jazz Lovers...
 
-:3rd_place_medal: [![bilibili](https://img.shields.io/badge/-bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white) 哔哩哔哩: 瀚声_KosmicRecords](https://space.bilibili.com/1557561)
+📸 [![500px](https://img.shields.io/badge/-500px-0099E5?style=flat-square&logo=500px&logoColor=white) Camera](https://500px.com.cn/SummerFalls): Rollei 35 & Mamiya Universal Press & Nikon F2 & Fujifilm XT4
+
+📺 [![bilibili](https://img.shields.io/badge/-bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white) 哔哩哔哩: 瀚声_KosmicRecords](https://space.bilibili.com/1557561)
 
 <table>
 <tr>
